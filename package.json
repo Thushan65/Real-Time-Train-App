@@ -1,0 +1,16 @@
+{
+  "name": "realtime",
+  "version": "1.0.0",
+  "description": "real time api project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Thushan",
+  "license": "UNLICENSED",
+  "type": "module",
+  "dependencies": {
+    "mqtt": "^5.5.5",
+    "ws": "^8.17.0"
+  }
+}
